@@ -1,0 +1,2 @@
+## About ##
+One of the challenges during the March 2023 Global Hacking Week (GHW), which is hosted by Major League Hacking (MLH) is to explore a new language.  I decided to take an opportunity and learn more about the langugage of C++.
